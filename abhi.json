@@ -1,6 +1,6 @@
 {
     "androidlink":{		
         "channelname":"Star9",
-        "channellink":"http://192.168.27.104:8080/hlslive/test/test.m3u8"
+        "channellink":"http://ec2-52-66-250-38.ap-south-1.compute.amazonaws.com:1935/hlslive/test/test.m3u8"
     }
 }
