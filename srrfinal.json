@@ -1,7 +1,7 @@
 {
     "androidlink":{		
         "channelname":"Srr",
-        "channellink":"http://192.168.27.217:1935/livesrr/myStream/playlist.m3u8",
+        "channellink":"http://192.168.127.1:1935/srrchannel/myStream/playlist.m3u8",
         "outdate":"no"
     }
 }
